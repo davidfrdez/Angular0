@@ -134,3 +134,9 @@ Este cambio se ejecuta cuando se da el cambio en solo ese elemnto utilizando [on
 - enventos
 - parametros
 utilizando chanegDetectorRet
+
+```js
+changeDetection:ChangeDetectionStrategy.OnPush,
+```
+
+Se coloca esto en el componentec para que tenga la propiedad de accede con la propiedad onpush para no renderizar todo
