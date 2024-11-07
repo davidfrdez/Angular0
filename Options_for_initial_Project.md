@@ -140,3 +140,22 @@ changeDetection:ChangeDetectionStrategy.OnPush,
 ```
 
 Se coloca esto en el componentec para que tenga la propiedad de accede con la propiedad onpush para no renderizar todo
+
+### conseptos
+
+```js
+  [(text)]
+```
+
+### Se puede compartir el estaodo
+
+root es el unico que se ven afectados
+
+## Singnals
+
+Esta implementado Zone.js
+
+Angulas 17  va ser 100%  signals
+
+78 % que van en una empresa no estan actualizados
+
